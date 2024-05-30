@@ -1,11 +1,19 @@
-import NaganoCity from "./pages/NaganoCity";
+import {
+  createBrowserRouter,
+  createRoutesFromElements,
+  Route,
+  RouterProvider,
+} from "react-router-dom";
+
+// Pages
+import Top from "./pages/Top";
+
+const router = createBrowserRouter(
+  createRoutesFromElements(<Route path="/" element={<Top />} />)
+);
 
 const App = () => {
-  return (
-    <>
-      <NaganoCity />
-    </>
-  );
+  return <RouterProvider router={router} />;
 };
 
 export default App;
