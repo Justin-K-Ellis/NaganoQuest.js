@@ -7,9 +7,15 @@ import {
 
 // Pages
 import Top from "./pages/Top";
+import NaganoCity from "./pages/NaganoCity";
 
 const router = createBrowserRouter(
-  createRoutesFromElements(<Route path="/" element={<Top />} />)
+  createRoutesFromElements(
+    <>
+      <Route path="/" element={<Top />} />
+      <Route path="naganocity" element={<NaganoCity />} />
+    </>
+  )
 );
 
 const App = () => {
