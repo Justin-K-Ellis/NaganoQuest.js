@@ -1,0 +1,164 @@
+{
+  "naganoCity": {
+    "name": "Nagano City",
+    "description": "Welcome to Nagano City, the capital of the prefecture. There's a lot to do here, in this bustling metropolis of the inaka, but in my experience, the top choices are:",
+    "options": {
+      "1": "Zenkouji, the largest temple in Nagano",
+      "2": "Starbucks"
+    },
+    "ending": null
+  },
+
+  "zenKouji": {
+    "name": "Zenkouji",
+    "description": "Ah, Zenkouji. A massive Buddhist temple complex dominates the top of a hill in the middle of the city. Here you can either progress on path to enlightenment by traveling beneath the temple in a pitch black tunnel, or get ice cream. Yes, the temple has an ice cream shop. Really. So which will it be?",
+    "options": {
+      "1": "The tunnel",
+      "2": "Ice cream!"
+    },
+    "ending": null
+  },
+
+  "zenkoujiTunnel": {
+    "name": "Zenkouji tunnel",
+    "description": "You remove your shoes and enter the central temple (after buying a ticket!). From there you decend into the tunnel beneath the alter. It is a winding path, cast in perfect, primordial darkness. Yet the story goes that somewhere in the darkness is a room where the first image of the Buddha brought to Japan is kept. You lightly drag your fingers across the right wall until Suddenly! A bronze handle!",
+    "options": null,
+    "ending": "You found enlightenment!"
+  },
+
+  "iceCream": {
+    "name": "Ice cream",
+    "description": "Well, the ice cream was good, but really, you could have gotten that anywhere.",
+    "options": null,
+    "ending": "Seems like kind of a waste."
+  },
+
+  "starbucks": {
+    "name": "Starbucks",
+    "description": "Well, it's Starbucks. Same as any other Starbucks in Japan, same as any Starbucks anywhere. It's fine though, no matter what those snobs say. Since you apparently have some free time, you can either:",
+    "options": {
+      "1": "Space out",
+      "2": "Play a game called 'Nagano Quest'"
+    },
+    "ending": null
+  },
+
+  "spaceOut": {
+    "name": "Space out",
+    "description": ".........",
+    "options": null,
+    "ending": "Well, that was a waste of your vacation."
+  },
+
+  "uedaCity": {
+    "name": "Ueda City",
+    "description": "Welcome to Ueda, home of the famous samurai, Sanada Yukimura. To be honest, there isn't that much to do here. I'd suggest:",
+    "options": {
+      "1": "Ueda Castle, the former fortress of the samurai warrior Sanada Yukimura.",
+      "2": "A bar we'll call 'KK.'"
+    },
+    "ending": null
+  },
+
+  "uedaCastle": {
+    "name": "Ueda Castle",
+    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle(Shame the cherry blossoms aren't in season.What do you mean 'Where's the castle'Oh, right. The central keep was destroyed long ago...If you want to see a traditional castle with the tower and alYou'll have to go to Matsumoto. Otherwise we can just hang ouin Ueda and hit that bar. What do you say?",
+    "options": {
+      "1": "Go to Matsumoto City",
+      "2": "Go to that bar"
+    },
+    "ending": null
+  },
+
+  "matsumoto": {
+    "name": "Matsumoto City",
+    "description": "Matsumoto is by far the most cultured city in the prefecture. So I can easily recommend either:",
+    "options": {
+      "1": "Matsumoto Castle",
+      "2": "The city museum"
+    },
+    "ending": null
+  },
+
+  "matsumotoCastle": {
+    "name": "Matsumoto Castle",
+    "description": "Here we are at Matsumoto Castle, the finest castle in the land! It's dark form rises from its pedestal of stone, towering over the shallow moat, its image reflected in the water. Now what?",
+    "options": {
+      "1": "Go to the station area.",
+      "2": "Visit the museum."
+    },
+    "ending": null
+  },
+
+  "matsumotoStation": {
+    "name": "Around Matsumoto Station",
+    "description": "You head back down to the station area. You can either wait around for night and go out, or go back to Nagano City. What do you do?",
+    "options": {
+      "1": "Stay out.",
+      "2": "Go to Nagano City"
+    },
+    "ending": null
+  },
+
+  "matsumotoMuseum": {
+    "name": "Matsumoto City Museum",
+    "description": "You arrive at Matsumoto City Museum. Outside there are huge, colorful sculptures depicting polka dotted tulips. Don't see that every day. You buy your ticket and see a variety of fine arts in the small but tasteful museum, including more polka dots that you ever thought you would see in your entire life.",
+    "options": null,
+    "ending": "You are now more cultured."
+  },
+
+  "stayOutInMatsumoto": {
+    "name": "Stay out in Matsumoto City",
+    "description": "You decide to spend a night out on the town! You decided to hit the takoyaki standing bar for a first round, but this 'first round' turns into five or six rounds after meeting a group of random Japanese people who ended up pulling you off to drunken karaoke.",
+    "options": null,
+    "ending": "Now that's an authentic Japanese experience."
+  },
+
+  "kamiKaze": {
+    "name": "Bar KK",
+    "description": "You wait around until eight at night before heading to a bar we'll call 'KK'. You step into the dimly lit bar, a decent looking place, but clearly something of a dive. There doesn't seem to be anyone here yet, save for the bartender. He is a meaty Japanese man sporting a mustache. He looks up from his smartphone and grunts at you. What do you do?",
+    "options": {
+      "1": "Leave",
+      "2": "Stay and talk to the bar tender"
+    },
+    "ending": null
+  },
+
+  "leaveKK": {
+    "name": "Leave Bar KK",
+    "description": "You turn around and head back out the door. You don't really know any other places though, so you go back to your hotel.",
+    "options": null,
+    "ending": "What and exciting night out!"
+  },
+
+  "stayAtKK": {
+    "name": "Stay at Bar KK",
+    "description": "You decided to stay and start talking to the gruff bartender. He asks to take your order, but you realize you don't have much cash on you. Lucky for you, he offers you '%s prices' and gets you drinks for cheap and you get hammered. He seems to take a perverse pleasure in seeing you get wasted.",
+    "options": null,
+    "ending": "You wake up the next morning with a terrible hangover."
+  },
+
+  "theSouth": {
+    "name": "Southern Nagano",
+    "description": "Not much is known about southern Nagano. Mostly legends, really. What has been confirmed about this expanse of forests and mountains is the existence of:",
+    "options": {
+      "1": "Kiso Valley",
+      "2": "Lake Suwa"
+    },
+    "ending": null
+  },
+
+  "kiso": {
+    "name": "Kiso-Fukushima",
+    "description": "So here we are, the Kiso Valley! A cool mountain river cuts between shear forest covered mountains, and the small towns that line the valley seem to be little more than decoration. Winding through the mountain paths is the Nakasendou, the ancient path from medieval Tokyo to Kyoto.",
+    "options": null,
+    "ending": "Hey, that wasn't so bad."
+  },
+
+  "suwa": {
+    "name": "Lake Suwa",
+    "description": "You see a massive, circular lake embedded in a ring of low, green and rolling mountains. Lake Suwa's placid and blue waves roll in to greet the small but pleasant city on the shore. Beyond the rim of green mountains you can see the soaring Yatsugatake range.",
+    "options": null,
+    "ending": "What a nice place."
+  }
+}
