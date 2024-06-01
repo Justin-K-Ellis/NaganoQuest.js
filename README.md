@@ -1,8 +1,15 @@
-# React + Vite
+# Nagano Quest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Photo Credit
 
-Currently, two official plugins are available:
+### Kamikouchi (Welcome Screen):
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Photo by <a href="https://unsplash.com/@ryutoizumi33?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">泉 龍都</a> on <a href="https://unsplash.com/photos/green-trees-near-lake-and-mountains-during-daytime-s7xAqCUFNVE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+### Nagano City:
+
+Photo by <a href="https://unsplash.com/@3ka9pix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ryuto Pix</a> on <a href="https://unsplash.com/photos/vehicles-passing-on-road-during-daytime-10BfEUwCqk8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+### Zenkouji Temple:
+
+Photo by <a href="https://unsplash.com/@delphinenz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Delphine Ducaruge</a> on <a href="https://unsplash.com/photos/green-and-white-pagoda-PXy2mWF2RKM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
