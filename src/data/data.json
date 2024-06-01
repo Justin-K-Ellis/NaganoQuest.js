@@ -3,7 +3,7 @@
     "name": "Nagano City",
     "description": "Welcome to Nagano City, the capital of the prefecture. There's a lot to do here, in this bustling metropolis of the inaka, but in my experience, the top choices are:",
     "options": {
-      "1": "Zenkouji, the largest temple in Nagano",
+      "1": "Zenkouji Temple",
       "2": "Starbucks"
     },
     "ending": null
