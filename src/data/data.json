@@ -1,7 +1,7 @@
 {
   "naganoCity": {
     "name": "Nagano City",
-    "description": "Welcome to Nagano City, the capital of the prefecture. There's a lot to do here, in this bustling metropolis of the inaka, but in my experience, the top choices are:",
+    "description": "Welcome to Nagano City, the capital of the prefecture. There's a lot to do here, in this bustling metropolis of the inaka, but in my experience, some of the the top choices are:",
     "options": {
       "1": "Zenkouji Temple",
       "2": "Starbucks"
@@ -11,7 +11,7 @@
 
   "zenKouji": {
     "name": "Zenkouji",
-    "description": "Ah, Zenkouji. A massive Buddhist temple complex dominates the top of a hill in the middle of the city. Here you can either progress on path to enlightenment by traveling beneath the temple in a pitch black tunnel, or get ice cream. Yes, the temple has an ice cream shop. Really. So which will it be?",
+    "description": "Ah, Zenkouji. A massive Buddhist temple complex dominates the top of a hill in the middle of the city. Here you can either progress on path to enlightenment by traveling beneath the temple in a pitch black tunnel, or get ice cream. Yes, the temple has an ice cream shop. So which will it be?",
     "options": {
       "1": "The tunnel",
       "2": "Ice cream!"
@@ -21,7 +21,7 @@
 
   "zenkoujiTunnel": {
     "name": "Zenkouji tunnel",
-    "description": "You remove your shoes and enter the central temple (after buying a ticket!). From there you decend into the tunnel beneath the alter. It is a winding path, cast in perfect, primordial darkness. Yet the story goes that somewhere in the darkness is a room where the first image of the Buddha brought to Japan is kept. You lightly drag your fingers across the right wall until Suddenly! A bronze handle!",
+    "description": "You remove your shoes and enter the central temple (after buying a ticket!). From there you decend into the tunnel beneath the altar. It is a winding path, cast in perfect, primordial darkness. Yet the story goes that somewhere in the darkness is a room where the first image of the Buddha brought to Japan is kept. You lightly drag your fingers across the right wall until--suddenly! A bronze handle!",
     "options": null,
     "ending": "You found enlightenment!"
   },
@@ -35,7 +35,7 @@
 
   "starbucks": {
     "name": "Starbucks",
-    "description": "Well, it's Starbucks. Same as any other Starbucks in Japan, same as any Starbucks anywhere. It's fine though, no matter what those snobs say. Since you apparently have some free time, you can either:",
+    "description": "Well, it's Starbucks. Same as any other Starbucks in Japan, same as any Starbucks anywhere. It's fine though.... Since you apparently have some free time, you can either:",
     "options": {
       "1": "Space out",
       "2": "Play a game called 'Nagano Quest'"
@@ -52,7 +52,7 @@
 
   "uedaCity": {
     "name": "Ueda City",
-    "description": "Welcome to Ueda, home of the famous samurai, Sanada Yukimura. To be honest, there isn't that much to do here. I'd suggest:",
+    "description": "Welcome to Ueda, home of the famous samurai, Sanada Yukimura. This is a smaller city, but I'd suggest:",
     "options": {
       "1": "Ueda Castle",
       "2": "A bar we'll call 'KK.'"
@@ -62,7 +62,7 @@
 
   "uedaCastle": {
     "name": "Ueda Castle",
-    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle. (Shame the cherry blossoms aren't in season.) What do you mean 'Where's the castle'? Oh, right. The gate is still here, but the central keep was destroyed long ago... If you want to see a traditional castle with the tower and all, you'll have to go to Matsumoto. Otherwise we can just hang ouin Ueda and hit that bar. What do you say?",
+    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle. (Shame the cherry blossoms aren't in season.) What do you mean 'Where's the castle'? Oh, right. The gate is still here, but the central keep was destroyed long ago.... If you want to see a traditional castle with the tower and all, you'll have to go to Matsumoto. Otherwise we can just hang ouin Ueda and hit that bar. What do you say?",
     "options": {
       "1": "Go to Matsumoto City",
       "2": "Go to that bar"
@@ -72,7 +72,7 @@
 
   "matsumoto": {
     "name": "Matsumoto City",
-    "description": "Matsumoto is by far the most cultured city in the prefecture. So I can easily recommend either:",
+    "description": "Matsumoto is a charming and cultured city resting in at the base of the Japanese Alps. There's a lot to do, but I can easily recommend either:",
     "options": {
       "1": "Matsumoto Castle",
       "2": "The city museum"
@@ -82,10 +82,10 @@
 
   "matsumotoCastle": {
     "name": "Matsumoto Castle",
-    "description": "Here we are at Matsumoto Castle, the finest castle in the land! It's dark form rises from its pedestal of stone, towering over the shallow moat, its image reflected in the water. Now what?",
+    "description": "Here we are at Matsumoto Castle, the finest castle in the land! It's dark form rises from its pedestal of stone, towering over the shallow moat, its image reflected in the water, overwhich a bright red bridge arches. So, now what?",
     "options": {
-      "1": "Go to the station area.",
-      "2": "Visit the museum."
+      "1": "Go to the station area",
+      "2": "Visit the museum"
     },
     "ending": null
   },
@@ -133,7 +133,7 @@
 
   "stayAtKK": {
     "name": "Stay at Bar KK",
-    "description": "You decided to stay and start talking to the gruff bartender. He asks to take your order, but you realize you don't have much cash on you. Lucky for you, he offers you '%s prices' and gets you drinks for cheap and you get hammered. He seems to take a perverse pleasure in seeing you get wasted.",
+    "description": "You decided to stay and start talking to the gruff bartender. He asks to take your order, but you realize you don't have much cash on you. Lucky for you, he offers you 'special' prices and gets you drinks for cheap, and you get hammered. He seems to take a perverse pleasure in seeing you get wasted.",
     "options": null,
     "ending": "You wake up the next morning with a terrible hangover."
   },
