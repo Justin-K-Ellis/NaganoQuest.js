@@ -21,9 +21,15 @@ const WelcomePage = () => {
           <Link to="../naganocity">
             <Button text="Nagano City" />
           </Link>
-          <Button text="Ueda City" />
-          <Button text="Matsumoto City" />
-          <Button text="The South" />
+          <Link to="../uedacity">
+            <Button text="Ueda City" />
+          </Link>
+          <Link to="../matsumotocity">
+            <Button text="Matsumoto City" />
+          </Link>
+          <Link to="../thesouth">
+            <Button text="The South" />
+          </Link>
         </div>
       </div>
     </div>

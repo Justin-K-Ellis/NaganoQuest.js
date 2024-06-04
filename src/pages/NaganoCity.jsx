@@ -11,6 +11,7 @@ const NaganoCity = () => {
         option1={data.naganoCity.options[1]}
         option2={data.naganoCity.options[2]}
         option1Link="../zenkouji"
+        option2Link="../starbucks"
         image={nagano_city}
       />
     </div>
