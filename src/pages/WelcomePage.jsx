@@ -10,9 +10,12 @@ const WelcomePage = () => {
         Nagano Quest
       </header>
       <img src={kamikouchi} alt="" className="object-cover w-full h-36" />
-      <div id="content-container" className="flex flex-col m-3 gap-6">
+      <div
+        id="content-container"
+        className="flex flex-col m-3 gap-6 md:mx-auto md:w-7/12"
+      >
         <h1 className="text-3xl my-1 font-bold">Welcome to Nagano!</h1>
-        <div>
+        <div className="text-justify">
           Here we are in Nagano, the roof of Japan. Also known as Shinshu and
           Shinano no Kumi, you can start your journey at one of these four
           locations:

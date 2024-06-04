@@ -1,7 +1,11 @@
 import Button from "./Button";
 import { Link } from "react-router-dom";
+import { useContext } from "react";
+import PlayerNameContext from "../PlayerNameContext";
 
 const PageTemplate = (props) => {
+  const playerName = useContext(PlayerNameContext);
+
   return (
     <div
       id="outer-container"
@@ -11,14 +15,17 @@ const PageTemplate = (props) => {
         <Link to="/">Nagano Quest</Link>
       </header>
       <img src={props.image} alt="" className="object-cover w-full h-36" />
-      <div id="content-container" className="flex flex-col m-3 gap-6">
+      <div
+        id="content-container"
+        className="flex flex-col m-3 gap-6 md:w-7/12 md:mx-auto"
+      >
         <h1 className="text-3xl my-1 font-bold">{props.name}</h1>
-        <div>{props.description}</div>
-        <div id="choices" className="flex flex-col gap-2">
-          <p className="bg-green-500 rounded shadow-lg text-xl text-center p-2">
+        <div className="text-justify">{props.description}</div>
+        <div id="choices" className="flex flex-col gap-2 items-center">
+          <p className="bg-green-500 rounded shadow-lg text-xl text-center p-2 md:max-w-md">
             {props.ending}
             <br />
-            Great job!
+            Great job, {playerName}!
           </p>
         </div>
       </div>
