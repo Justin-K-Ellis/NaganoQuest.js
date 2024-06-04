@@ -15,17 +15,16 @@ const PageTemplate = (props) => {
         <h1 className="text-3xl my-1 font-bold">{props.name}</h1>
         <div>{props.description}</div>
         <div id="choices" className="flex flex-col gap-2">
-          <Link to={props.option1Link}>
-            <Button text={props.option1} />
-          </Link>
-          <Link to={props.option2Link}>
-            <Button text={props.option2} />
-          </Link>
+          <p className="bg-orange-500 rounded shadow-lg text-xl text-center p-2">
+            {props.ending}
+            <br />
+            Too bad.
+          </p>
         </div>
       </div>
       <footer className="fixed bottom-0 w-full flex">
         <Link to="/" className="justify-center items-center mx-auto my-4">
-          <Button text="Restart" className="" />
+          <Button text="Try Again" className="" />
         </Link>
       </footer>
     </div>
