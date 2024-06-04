@@ -54,7 +54,7 @@
     "name": "Ueda City",
     "description": "Welcome to Ueda, home of the famous samurai, Sanada Yukimura. To be honest, there isn't that much to do here. I'd suggest:",
     "options": {
-      "1": "Ueda Castle, the former fortress of the samurai warrior Sanada Yukimura.",
+      "1": "Ueda Castle",
       "2": "A bar we'll call 'KK.'"
     },
     "ending": null
@@ -62,7 +62,7 @@
 
   "uedaCastle": {
     "name": "Ueda Castle",
-    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle(Shame the cherry blossoms aren't in season.What do you mean 'Where's the castle'Oh, right. The central keep was destroyed long ago...If you want to see a traditional castle with the tower and alYou'll have to go to Matsumoto. Otherwise we can just hang ouin Ueda and hit that bar. What do you say?",
+    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle. (Shame the cherry blossoms aren't in season.) What do you mean 'Where's the castle'? Oh, right. The gate is still here, but the central keep was destroyed long ago... If you want to see a traditional castle with the tower and all, you'll have to go to Matsumoto. Otherwise we can just hang ouin Ueda and hit that bar. What do you say?",
     "options": {
       "1": "Go to Matsumoto City",
       "2": "Go to that bar"
@@ -94,7 +94,7 @@
     "name": "Around Matsumoto Station",
     "description": "You head back down to the station area. You can either wait around for night and go out, or go back to Nagano City. What do you do?",
     "options": {
-      "1": "Stay out.",
+      "1": "Stay out",
       "2": "Go to Nagano City"
     },
     "ending": null
@@ -128,7 +128,7 @@
     "name": "Leave Bar KK",
     "description": "You turn around and head back out the door. You don't really know any other places though, so you go back to your hotel.",
     "options": null,
-    "ending": "What and exciting night out!"
+    "ending": "What an exciting night out!"
   },
 
   "stayAtKK": {
