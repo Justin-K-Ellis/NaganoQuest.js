@@ -1,18 +1,24 @@
-# Nagano Quest
+# Nagano Quest JS
+
+## About
+
+This project is a choose-your-own-adventure type single page application implemented in React and Tailwind CSS. In this game, the user is taken on a tour of beautiful Nagano Prefecture, Japan, and can visit a number of locations and choose a number of routes to connect those locations. The game always ends with either a Good Ending or a Bad Ending.
+
+This app is based on Python2 command line text adventure I wrote many years ago, but is now given a graphical treatment with the magic of JavaScript.
 
 ## Photo Credit
 
 ### Kamikouchi (Welcome Screen):
 
-Photo by `<a href="https://unsplash.com/@ryutoizumi33?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">`泉 龍都 `</a>` on `<a href="https://unsplash.com/photos/green-trees-near-lake-and-mountains-during-daytime-s7xAqCUFNVE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">`Unsplash `</a>`
+Photo by [泉 龍都](https://unsplash.com/@ryutoizumi33?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](`https://unsplash.com/photos/green-trees-near-lake-and-mountains-during-daytime-s7xAqCUFNVE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash`)
 
 ### Nagano City:
 
-Photo by `<a href="https://unsplash.com/@3ka9pix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">`Ryuto Pix `</a>` on `<a href="https://unsplash.com/photos/vehicles-passing-on-road-during-daytime-10BfEUwCqk8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">`Unsplash `</a>`
+Photo by [Ryuto Pix]() on [Unsplash](`)
 
 ### Zenkouji Temple:
 
-Photo by `<a href="https://unsplash.com/@delphinenz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">`Delphine Ducaruge `</a>` on `<a href="https://unsplash.com/photos/green-and-white-pagoda-PXy2mWF2RKM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">`Unsplash `</a>`
+Photo by [Delphine Ducaruge](`https://unsplash.com/@delphinenz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash`) on [Unsplash](`https://unsplash.com/photos/green-and-white-pagoda-PXy2mWF2RKM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash`)
 
 ### Starbucks:
 
