@@ -62,7 +62,7 @@
 
   "uedaCastle": {
     "name": "Ueda Castle",
-    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle. (Shame the cherry blossoms aren't in season.) What do you mean 'Where's the castle'? Oh, right. The gate is still here, but the central keep was destroyed long ago.... If you want to see a traditional castle with the tower and all, you'll have to go to Matsumoto. Otherwise we can just hang ouin Ueda and hit that bar. What do you say?",
+    "description": "Here we find ourselves at the beautiful and expansive Ueda Castle. (Shame the cherry blossoms aren't in season.) What do you mean 'Where's the castle'? Oh, right. The gate is still here, but the central keep was destroyed long ago.... If you want to see a traditional castle with the tower and all, you'll have to go to Matsumoto. Otherwise we can just hang out in Ueda and hit that bar. What do you say?",
     "options": {
       "1": "Go to Matsumoto City",
       "2": "Go to that bar"
@@ -82,7 +82,7 @@
 
   "matsumotoCastle": {
     "name": "Matsumoto Castle",
-    "description": "Here we are at Matsumoto Castle, the finest castle in the land! It's dark form rises from its pedestal of stone, towering over the shallow moat, its image reflected in the water, overwhich a bright red bridge arches. So, now what?",
+    "description": "Here we are at Matsumoto Castle, the finest castle in the land! Its dark form rises from its pedestal of stone, towering over the shallow moat, its image reflected in the water, overwhich a bright red bridge arches. So, now what?",
     "options": {
       "1": "Go to the station area",
       "2": "Visit the museum"

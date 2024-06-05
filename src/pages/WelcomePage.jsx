@@ -21,7 +21,7 @@ const WelcomePage = () => {
         <h1 className="text-3xl my-1 font-bold">Welcome to Nagano!</h1>
         <div className="text-justify">
           Here we are in Nagano, the roof of Japan. Also known as Shinshu and
-          Shinano no Kumi, you can start your journey at one of these four
+          Shinano no Kuni, you can start your journey at one of these four
           locations:
         </div>
         <div id="choices" className="flex flex-col gap-2">
