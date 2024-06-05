@@ -5,6 +5,7 @@ import { useContext } from "react";
 
 const PageTemplate = (props) => {
   const playerName = useContext(PlayerNameContext);
+  console.log(playerName[0]);
 
   return (
     <div
@@ -13,9 +14,13 @@ const PageTemplate = (props) => {
     >
       <header className="text-xl p-2 font-bold bg-white shadow-lg flex justify-between">
         <Link to="/">Nagano Quest</Link>
-        {playerName}
+        {playerName[0]}
       </header>
-      <img src={props.image} alt="" className="object-cover w-full h-36" />
+      <img
+        src={props.image}
+        alt=""
+        className="object-cover w-full h-36 md:h-56"
+      />
       <div
         id="content-container"
         className="flex flex-col m-3 gap-6 md:w-7/12 md:mx-auto"

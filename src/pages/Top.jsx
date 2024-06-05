@@ -29,7 +29,7 @@ const Top = () => {
             <input
               type="text"
               placeholder="Your name"
-              className="p-1 shadow-md rounded text-xl text-center"
+              className="p-1 shadow-md rounded text-xl text-center max-w-md"
               onChange={handleChange}
             />
           </form>

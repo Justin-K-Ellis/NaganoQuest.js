@@ -14,7 +14,11 @@ const PageTemplate = (props) => {
       <header className="text-xl p-2 font-bold bg-white shadow-lg">
         <Link to="/">Nagano Quest</Link>
       </header>
-      <img src={props.image} alt="" className="object-cover w-full h-36" />
+      <img
+        src={props.image}
+        alt=""
+        className="object-cover w-full h-36 md:h-56"
+      />
       <div
         id="content-container"
         className="flex flex-col m-3 gap-6 md:w-7/12 md:mx-auto"

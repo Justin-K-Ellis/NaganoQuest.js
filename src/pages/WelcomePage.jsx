@@ -9,7 +9,11 @@ const WelcomePage = () => {
       <header className="text-xl p-2 font-bold bg-white shadow-lg">
         Nagano Quest
       </header>
-      <img src={kamikouchi} alt="" className="object-cover w-full h-36" />
+      <img
+        src={kamikouchi}
+        alt=""
+        className="object-cover w-full h-36 md:h-56"
+      />
       <div
         id="content-container"
         className="flex flex-col m-3 gap-6 md:mx-auto md:w-7/12"
