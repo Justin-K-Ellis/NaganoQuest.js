@@ -1,6 +1,6 @@
 import data from "../data/data.json";
 import PageTemplate from "../components/PageTemplate";
-import the_south from "../assets/arukuma.png";
+import the_south from "../assets/the_south.jpeg";
 
 const TheSouth = () => {
   return (
